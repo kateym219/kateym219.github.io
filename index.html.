@@ -1,0 +1,83 @@
+<html>
+<head>
+  <!-- write your hero's name here in the <title> element  -->
+  <title>Marie Avgeropoulos</title>
+</head link rel="stylesheet" href="./style.css" type="text/css">
+
+
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <div class="col-xs-12">
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1 class="text-center">Marie Avgeropoulos</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2 class="text-center"><em>The Action Queen</em></h2>
+          <div class="thumbnail">
+            <!-- place and image here; use an image already on the internet -->
+<img src="https://www.thefamouspeople.com/profiles/images/og-marie-avgeropoulos-16105.jpg">
+            <!-- place a caption under your picture which explains the picture -->
+            <div class="caption text-center">Octavia from the 100</div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3 class="text-center">Why Marie Averopoulos is the Queen of Acting</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Marie Avgeropoulos is a great actor because she knows how to really play a character. When I watch her in movies she is always the perfect person for that character. In The 100 she plays as Octavia, She really is into this role and she plays the character as if this character is who she actually is.
+            </p>
+          </div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3 class="text-center">Timeline </h3>
+            <!-- create a timeline using an unordered list -->
+             <ul>
+            <li> 17 June 1986
+              Thunder Bay, Ontari</li>
+              <li> 2009,	I Love You, Beth Cooper,	Valli Wooley </li>
+              <li> 2010,	Random Walk	N/A </li>
+              <li> 2010,	Percy Jackson & the Olympians: The Lightning Thief,	Aphrodite Girl </li>
+              <li> 2010,	Hunt to Kill,	Kim Rhodes </li>
+              <li> 2011,	50/50,	Allison </li>
+              <li> 2012,	Fugitive at 17,	Holly </li>
+              <li> 2015,	Tracers,	Nikki </li>
+            <li>2009,	Supernatural,	Taylor	Episode: "After School Special" </li>
+            <li>2009,	Harper's Island,	Stacy,	Episode: "Bang" </li>
+            <li>2009,	The Guard,	Jeanette,	Episode: "Body Parts" </li>
+            <li>2009,	Sorority Wars,	Missy,	Television film </li>
+            <li>2010,	The Troop,	Sarah	Episode: "Speed" </li>
+              <li>2010,	Fringe,	Leah / Waitress,	2 episodes </li>
+                <li>2010,	Smoke Screen	Suzi	Television film </li>
+                  <li>2010,	Human Target	,Jamie Hartloff,	Episode:"The Other Side of the Mall" </li>
+                    <li>2011,	Eureka,	Bonnie,	Episode: "Reprise" </li>
+                      <li>2011,	Hiccups,	Terry,	Episode: "Sexual Healing" </li>
+            <li>2012,	Fugitive at 17,	Holly Hamilton,	Television film </li>
+              <li>2012,	Walking the Halls,	Amber,	Television film </li>
+                <li>2012,	The Inbetweeners,	Samantha,	4 episodes </li>
+                  <li>2013,	90210,	Cassie McCoy,	Episode: "The Empire State Strikes Back" </li>
+                    <li>2013,	Cult,	Kirstie Nelson,	10 episodes </li>
+                      <li>2014–present,	The 100,	Octavia Blake,	Main role; 81 episodes </li>
+                    </ul>
+
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p> The things that matter in life....Aren't things -Marie Avgeropoulos </p>
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3> <a href="https://en.wikipedia.org/wiki/Marie_Avgeropoulos">Mari Avgeropoulos</a> </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+      <hr></hr>
+      <!--  using the <p>, take ownership of your page  -->
+      <p>Written by Kate Morgan</p>
+    </footer class="text-center">
+  </div>
+</body>
+</html>
